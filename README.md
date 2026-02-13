@@ -125,6 +125,10 @@ smart-campus-management-main/
 
 ---
 
+## App Video
+https://github.com/sakshikore16/Smart-Campus-Management-System/blob/main/appvideo.mov
+
+---
 ## License
 
 This project is for educational/submission use. Adjust license as needed for your context.
